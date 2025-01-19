@@ -5,7 +5,7 @@
 •	📂 Temas abordados
 •	✔️ Tecnologias Utilizadas
 •	💻 Demonstração
-•	🙋🏻‍♂‍ Autor
+•	🙋 Créditos
 
 
 📌 Resumo do Projeto
