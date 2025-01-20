@@ -1,6 +1,6 @@
-📎 Sumário
+📎 **Sumário**
 
-•	📌 Resumo do Projeto
+•	📌Resumo do Projeto
 
 •	⭐ Features
 
@@ -12,11 +12,11 @@
 
 •	🙋 Créditos
 
-📌 Resumo do Projeto
+📌 **Resumo do Projeto**
 
 Neste site, eu apresento uma página de venda de jogos, criado em HTML e CSS, aplicando conceitos de flex-box e estilos css.
 
-⭐ Features
+⭐ **Features**
 
 •	Design Moderno e elegante;
 
@@ -26,7 +26,7 @@ Neste site, eu apresento uma página de venda de jogos, criado em HTML e CSS, ap
 
 •	Uma seção de contatos;
 
-📂 Temas abordados
+📂 **Temas abordados**
 
 •	HTML
 
@@ -40,17 +40,17 @@ Neste site, eu apresento uma página de venda de jogos, criado em HTML e CSS, ap
 
 •	Vercel
 
-✔️ Tecnologias Utilizadas
+✔️ **Tecnologias Utilizadas**
 
  HTML5 / CSS3
 
 
-💻 Demonstração
+💻 **Demonstração**
 
 Para visualizar uma prévia do projeto [clique aqui](https://gamesshop-gamma.vercel.app/)
 
 
 
-🙋 Créditos
+🙋 **Créditos**
 
-(https://github.com/Katiadantass)
+[Katiadantass](https://github.com/Katiadantass)
