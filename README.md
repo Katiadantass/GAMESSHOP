@@ -12,7 +12,7 @@
 
 •	🙋 Créditos
 
-📌 ### **Resumo do Projeto**
+📌 ### **Resumo do Projeto** ###
 
 Neste site, eu apresento uma página de venda de jogos, criado em HTML e CSS, aplicando conceitos de flex-box e estilos css.
 
